@@ -85,10 +85,12 @@ a {
 }
     
 
-.button:focus{
+.order-service:focus{
     background-color: #404BBF;
 }
-
+.order-service:hover{
+    background-color: #404BBF;
+}
 
 
 
